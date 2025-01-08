@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=plantType
+comment0.target=PlantButton(java.lang.String)
+comment1.params=
+comment1.target=boolean\ canAffordPlant()
+comment2.params=
+comment2.target=int\ getPlayerResources()
+comment3.params=
+comment3.target=void\ loadImages()
+comment4.params=
+comment4.target=java.lang.String\ getPlantType()
+comment5.params=
+comment5.target=int\ getPlantCost()
+comment6.params=canPlant
+comment6.target=void\ updateButtonImage(boolean)
+comment7.params=
+comment7.target=void\ addYellowBorder()
+comment8.params=
+comment8.target=void\ removeYellowBorder()
+numComments=9

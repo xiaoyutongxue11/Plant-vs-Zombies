@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=health\ sunCost\ damage
+comment0.target=Plant(int,\ int,\ int)
+comment1.params=
+comment1.target=void\ handleBeingEaten()
+comment2.params=
+comment2.target=boolean\ isBeingEaten()
+comment3.params=zombie
+comment3.target=void\ addAttackingZombie(Zombie)
+comment4.params=zombie
+comment4.target=void\ removeAttackingZombie(Zombie)
+comment5.params=
+comment5.target=void\ act()
+comment6.params=damage
+comment6.target=void\ takeDamage(int)
+comment7.params=
+comment7.target=int\ getSunCost()
+comment8.params=
+comment8.target=int\ getDamage()
+numComments=9

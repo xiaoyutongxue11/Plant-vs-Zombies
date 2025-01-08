@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SunButton()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ incrementSun()
+comment3.params=amount
+comment3.target=boolean\ decrementSun(int)
+comment4.params=
+comment4.target=int\ getSunCount()
+comment5.params=
+comment5.target=void\ updateButtonImage()
+comment6.params=
+comment6.target=void\ updatePlantButtons()
+numComments=7
